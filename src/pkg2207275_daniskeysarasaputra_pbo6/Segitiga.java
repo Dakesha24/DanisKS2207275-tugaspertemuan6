@@ -41,18 +41,18 @@ public class Segitiga
     //mengatur nilai alas
     public void setAlas(double alasBaru) 
     {
-        this.alas = alasBaru;
+        alas = alasBaru;
     }
 
     //mengatur nilai tinggi
     public void setTinggi(double tinggiBaru) 
     {
-        this.tinggi = tinggiBaru;
+        tinggi = tinggiBaru;
     }
 
     //mengatur nilai sisi
     public void setSisi(double sisiBaru) 
     {
-        this.sisi = sisiBaru;
+        sisi = sisiBaru;
     }
 }
