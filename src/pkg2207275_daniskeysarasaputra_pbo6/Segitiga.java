@@ -37,22 +37,4 @@ public class Segitiga
     {
         return alas+tinggi+sisi;
     }
-
-    //mengatur nilai alas
-    public void setAlas(double alasBaru) 
-    {
-        alas = alasBaru;
-    }
-
-    //mengatur nilai tinggi
-    public void setTinggi(double tinggiBaru) 
-    {
-        tinggi = tinggiBaru;
-    }
-
-    //mengatur nilai sisi
-    public void setSisi(double sisiBaru) 
-    {
-        sisi = sisiBaru;
-    }
 }
